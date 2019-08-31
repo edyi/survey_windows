@@ -33,32 +33,32 @@ ping www.yahoo.co.jp >> %KEKKA%
 echo;
 
 
-REM echo ///////////////////////////////////////////////////////////// >> %KEKKA%
-REM echo Google_DNS >> %KEKKA%
-REM rem ping確認
-REM ping 8.8.8.8 >> %KEKKA%
-REM echo;
+echo ///////////////////////////////////////////////////////////// >> %KEKKA%
+echo Google_DNS >> %KEKKA%
+rem ping確認
+ping 8.8.8.8 >> %KEKKA%
+echo;
 
 
-REM echo ///////////////////////////////////////////////////////////// >> %KEKKA%
-REM echo Gateway_router >> %KEKKA%
-REM rem ping確認
-REM ping 192.168.200.254 >> %KEKKA%
-REM echo;
+echo ///////////////////////////////////////////////////////////// >> %KEKKA%
+echo Gateway_router >> %KEKKA%
+rem ping確認
+ping 192.168.200.254 >> %KEKKA%
+echo;
 
 
-REM echo ///////////////////////////////////////////////////////////// >> %KEKKA%
-REM echo NAS >> %KEKKA%
-REM rem ping確認
-REM ping 192.168.200.200 >> %KEKKA%
-REM echo;
+echo ///////////////////////////////////////////////////////////// >> %KEKKA%
+echo NAS >> %KEKKA%
+rem ping確認
+ping 192.168.200.200 >> %KEKKA%
+echo;
 
 
-REM echo ///////////////////////////////////////////////////////////// >> %KEKKA%
-REM echo Printer >> %KEKKA%
-REM rem ping確認
-REM ping 192.168.200.100 >> %KEKKA%
-REM echo;
+echo ///////////////////////////////////////////////////////////// >> %KEKKA%
+echo Printer >> %KEKKA%
+rem ping確認
+ping 192.168.200.100 >> %KEKKA%
+echo;
 
 
 echo ///////////////////////////////////////////////////////////// >> %KEKKA%
